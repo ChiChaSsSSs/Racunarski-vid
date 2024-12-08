@@ -1,0 +1,1 @@
+Zadatak nije moguce pokrenuti dok se u folder ne dodaju fajlovi koji sadrze GoogleNet neuronsku mrezu. Fajlovi se nalazi u okviru zip-a na CS-u "GoogLeNet Object ClassificationFile". Skinuti ih i dodati u projekat.
